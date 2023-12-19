@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+   New Perspectives on XML 3rd Edition
+   Tutorial 6
+   Tutorial Case
+
+   Harpe Gaming Store Products
+   Author:
+   Date:
+
+   Filename:         products.xml
+   Supporting Files: products.xsl
+
+-->
+
+<?xml-stylesheet type="text/xsl" href="products.xsl" ?>
+
+<products>
+    <product pid="vg10551">
+        <title>Dance Off VII</title>
+        <manufacturer>Anasta Games</manufacturer>
+        <price>29.95</price>
+        <releaseDate>2017-09-28</releaseDate>
+        <media>Video Game</media>
+        <image>images/dance_off.jpg</image>
+
+        <summary>
+            <h3>Challenge Yourself with Dance</h3>
+
+            <p>
+                Bryan, a movie enthusiast since childhood, started a blog to share his passion for films while juggling
+                a day job. His authentic and relatable reviews attracted a growing audience, leading to offers for
+                collaborations and sponsorships. Despite opportunities, Bryan prioritized maintaining the authenticity
+                of his blog, staying true to his love for storytelling through movies.
+            </p>
+        </summary>
+
+        <reviews>
+            <review>
+                <title>My favorite workout video and workout game</title>
+                <text>I've owned all the Dance off releases from the beginning. It's my favorite workout video every
+                    morning. I have lost 12 pounds with very little modification of my diet. Dance off just gets better
+                    with every release. The song tracks are greate. There is a wonderful selection of new and old tracks
+                    from around the world. some obscure and others more popular, including several that are in heavy
+                    rotation on the radio right now. Most tracks have several choreographic alternatives that can be
+                    unlocked by earning in-game dance points.
+                </text>
+                <writer>Maria Smantha</writer>
+                <place>Galway, New York</place>
+                <date>November 18, 2017</date>
+                <stars>2</stars>
+            </review>
+            <review>
+                <title>Poor choreography</title>
+                <text>A so-so release of this well-established title. The user interface is improved and easier to use
+                    and game provides a few great songs, a few terrible ones, and several mediocre ones. The graphics
+                    are beautiful and the sets are stunning and fun (without being distracting) Where this release fails
+                    is in the choreography. The dances just aren't as much fun as the previous titles. Many of the moves
+                    follow predictable patterns; they're stale and that's a big problem for a dance game. I hope the
+                    next release improves the choreography because it's great in all other phases of the game.
+                </text>
+                <writer>Lisa Cudrow</writer>
+                <place>Sea Island, Georgia</place>
+                <date>November 14, 2017</date>
+                <stars>4</stars>
+            </review>
+            <review>
+                <title>Can love be rekindled despite the competition</title>
+                <text>Some nice terpsichorean talent is on full display in Dance Off. Some talented dancing young people
+                    put this across and you don't mind the plot which involves a reunion of sorts between childhood
+                    sweethearts now rivals at different dance studios. Can love be rekindled between Shane Harper and
+                    Kathryn McCormick despite the competition. People around both Harper and McCormick are urging both
+                    to get a mean on in regard to the competition. But amateur dancers Harper and McCormick prove
+                    they're professional enough. There's a sub plot going on between David Burtka a former dancer
+                    himself and his Devil Wears Prada mother Carolyn Hennessy who is running the "National Nationals"
+                    competition. I swear that's the name. Although you get the idea you are watching an extended version
+                    of the Disney Studio show Shake It Up, the talented and appealing young people make this an easy to
+                    take musical film.
+                </text>
+                <writer>bkoganbing</writer>
+                <place>Galway, New York</place>
+                <date>August 31, 2015</date>
+                <stars>2</stars>
+            </review>
+            <review>
+                <title>Had potential but somewhat flopped in the end</title>
+                <text>The acting and the plot were somewhat lackluster. I wondered at times what genre of film I was
+                    watching and found myself confused as the story skipped over many details that could of really
+                    improved the movie. However, I was shocked at how good the dancers were. The dance shots were
+                    beautiful and somewhat made up for the fact that the story left me with so many questions. A good
+                    watch if you need something light with some nice visuals.
+                </text>
+                <writer>jhhox10</writer>
+                <place>Atmore, Alabama</place>
+                <date>November 14, 2015</date>
+                <stars>4</stars>
+            </review>
+        </reviews>
+
+    </product>
+    <product pid="vg10552">
+        <title>Net Force 12</title>
+        <manufacturer>Nitta Sports</manufacturer>
+        <price>35.72</price>
+        <releaseDate>2017-10-03</releaseDate>
+        <media>Video Game</media>
+        <image>images/net_force.jpg</image>
+        <summary>
+            <h3>Take the Battle to the Hardwood</h3>
+            <p>
+                Net Force 12
+                is the latest release in the Net Force series of basketball
+                simulation games. Using motion capture technology designed specifically for
+                Net Force, this release captures the signature moves of the top players in
+                the NBA, No other basketball simulation has this lineup of stars. Additional
+                features include support for motion-sensor game controllers, dynamic shot
+                generation, touch-sensitive passing, and "flash-to-the-hoop" acceleration
+                for uncontested slam dunks.
+                Go to basketball camp and learn the game the right way with a series of fun
+                and challenging tutorials. Relive the past with stars from the 60's, 70's, 80's,
+                and 90's. Can today's stars hold their own against the champs from the past?
+                You decide.
+                Take your virtual game to a new entertainment level with the dynamic background
+                music and production by some of the top hip-hop artists on the charts. Previous
+                releases of Net Force have already won multiple awards for music and
+                production and this release looks posed to continue that winning streak.
+            </p>
+        </summary>
+
+        <reviews>
+            <review>
+                <title>The Facts.</title>
+                <text>Made for tv movies can never escape the feeling they're made for television. The taste, the sight
+                    and the scent. It's always there. Tom Clancy's Netforce itself was originally a two part television
+                    movie (how little did I know). In fact, it's all still somewhat a wash. Let me break it down for
+                    you. Flash forward to 2005. The internet has become so powerful and potentially dangerous that the
+                    US government sets up a division within the FBI entitled "Netforce" to preside over it from the evil
+                    people of the world who look to exploit it for their corrupt plans. Personally I seriously
+                    disbelieve the internet holds the future of the world in it's grasp, but that doesn't matter because
+                    the people at Netforce couldn't protect it if they had to anyway. Upon meeting the major characters
+                    we realize they're roles we've all seen before. Like the male main character who's strong and
+                    dresses well. The rest of the cast fit typical molds. I especially liked how a certain character's
+                    ex-wife is a news reporter who at one point becomes a key piece in the story. Everyone is so linked
+                    together. Realistic? No. Then again none of the characters have any real depth. They're just names
+                    and faces. There's also too many needless minor characters who provide nothing but padding and
+                    viewer confusion. It gets hard remembering twenty characters throughout a two plus hour movie. I
+                    want to give credit for trying to develop them, but it fails because we know they're insignificant.
+                    Frankly I expected more from such an ensemble cast too. Scott Bakula gets to look smart in suit, but
+                    this could have benefited from someone with more clout than Bakula. He's sufficient, but that's
+                    about it. Meanwhile Kris Kristofferson gets the cliché elder role and good 'ol Brian Dennehy has
+                    been given the plum task of the President's Chief Of Staff. That means him popping up spewing 'How
+                    his ass is on the line' or 'the President's p***ed at him'. Yes good actors can't save bad scripts.
+                    That's a fact. Which bothers me even further because this product has Tom Clancy's name written all
+                    over it. Yet it isn't anywhere near the quality of his past outings. It's a real disservice. Some of
+                    the blame has to fall straight into the writer's lap too. I say this because I find it hard to see
+                    this as an adaptation project that started well. It was bad from the get-go. The story stinks. It's
+                    amateur hour. Especially considering how much they squeeze into their time frame. Would more have
+                    helped? I'm hesitant to say. Even with over two hours they still came back with this slop. Frankly
+                    160 minutes is a long time and there isn't enough depth to sustain a person's interest or the
+                    holding of disbelief for such a period. It can't even be taken seriously. Like Judge Reinhold
+                    playing the 'evil multi-billion dollar software tycoon' looking to control the world or how corny it
+                    is to have FBI agents point loaded weapons in the faces of innocent cabdrivers. It's things like
+                    these that help make Netforce such a bore and honestly for a film dealing so heavily with computers
+                    and the internet, they sure went skimpy on the technical aspects too. I guess they didn't want to
+                    lose their biggest viewing demographic ... computer inept coach potatoes and patriotic Tom Clancy
+                    fans. For what it's trying to be, NetForce offers very little (if any) paranoia, suspense or "edge
+                    of your seat excitement" as so called critics would say. Netforce draws nothing but boredom and
+                    that's not exactly new territory. Last thing too. A golden rule of movies. If they don't find a body
+                    95% of the time that's a clear signal the person ain't dead. That's the facts.
+                </text>
+                <writer>refinedsugar</writer>
+                <place>Arizona, Ajo</place>
+                <date>6 July 2001</date>
+                <stars>4</stars>
+            </review>
+            <review>
+                <title>Takes itself WAY too seriously</title>
+                <text>For a film based upon such a refined subject as computers and the intricacies of the internet, I
+                    felt sure that there'd have to be some sort of off-the-cuff humour injected somewhere during
+                    proceedings to offset the technical detail. Surely they couldn't expect everybody to get excited
+                    about firewalls, web browsers and computer crime without something else to keep it company. Well, as
+                    it turns out, that's exactly what they expected and the film turns out to be drier than dust. Some
+                    of the technical detail was stretched to the very limit of credibility - it seems they severely
+                    overshot what the internet would be like in 2005 - yet they still imagined we'd be using floppy
+                    disks? More research, and effort, was called for in places that's for sure. Plus, it was an hour too
+                    long. Nearly 160 minutes is far too excessive for a film of its kind and an hour could easily have
+                    been taken off without too many problems. The acting was hokey - but not as bad as some TV movies -
+                    the technology very dodgy in parts and the romance subplot extremely wobbly, but anybody with even
+                    half an interest in computers and the internet may as well give it a go.
+                </text>
+                <writer>neil_mc</writer>
+                <place>California, Alameda</place>
+                <date>6 October 2005</date>
+                <stars>2</stars>
+            </review>
+            <review>
+                <title>To long and too dull</title>
+                <text>Scott Bakula (Quantum Leap's Sam Beckett) and Kris Kristofersson (Blade, Pat Garett and Billy the
+                    Kid) star in this below average TV movie. It seems quite a lot of money (for a TV movie) has been
+                    thrown at this but the pace at times is down to a crawl and Bakula's character seems to have become
+                    head of Netforce with a total lack of any computer knowledge. It's dated fairly badly but all movies
+                    about computers do that look at Wargames or Tron! But its main problems are down to a flabby script,
+                    pedestrian direction and lack of tension as for the ending i'm not even going to go there! Let's
+                    just say it ain't great, I gave this film a 4/10 as it's not a total lost cause but i cant recommend
+                    spending 2+hours watching this when there are better films out there. If you want a hacker movie War
+                    Games (Mathew Broderick) or Sneakers (Robert Redford, River Phoenix) are better movies in the same
+                    sort of area or for a more MTV friendly teen hacker movie then go for Hackers (Angelina Jolie &amp;
+                    Tommy Lee Miller). 4/10 - If there's nothing better on a rainy Sunday it might pass the time but
+                    thats about all, we can only hope the Quantum Leap movie gets off the ground to save Scott Bakula!
+                </text>
+                <writer>no-skyline</writer>
+                <place>California, Anaheim</place>
+                <date>29 October 2007</date>
+                <stars>5</stars>
+            </review>
+            <review>
+                <title>humorously poor</title>
+                <text>This movie is actually pretty watchable if you are a bit technical and don't mind viewing a film
+                    to laugh at its inherent badness. The script repeatedly uses networking lingo out of context and
+                    demonstrates a fundamental lack of understanding of networking principles. My favorite scene is when
+                    they're searching logs for traces of a computer break-in and the hero exclaims when no traces are
+                    found "There's not even a cookie?!?". I expect even a non-tech should be able to find a couple of
+                    laughs about the overwhelming lack of technical advisement. Some understanding of distributed
+                    attacks and viruses might have helped, but I guess the idea of two hackers trying to out type each
+                    other works better for Hollywood. The cinematography is low-average for a made for TV. I liked Judge
+                    Reinhold's acting, and Kris Kristofferson, Bakula I found to be often flat or alternately overacted.
+                    Conclusion: Don't rent it unless you're into bad movies, worth catching on Cable on a slow day.
+                </text>
+                <writer>DrK0H</writer>
+                <place>Colorado, Alamosa</place>
+                <date>13 June 2004</date>
+                <stars>4</stars>
+            </review>
+            <review>
+                <title>humorously poor</title>
+                <text>This movie is actually pretty watchable if you are a bit technical and don't mind viewing a film
+                    to laugh at its inherent badness. The script repeatedly uses networking lingo out of context and
+                    demonstrates a fundamental lack of understanding of networking principles. My favorite scene is when
+                    they're searching logs for traces of a computer break-in and the hero exclaims when no traces are
+                    found "There's not even a cookie?!?". I expect even a non-tech should be able to find a couple of
+                    laughs about the overwhelming lack of technical advisement. Some understanding of distributed
+                    attacks and viruses might have helped, but I guess the idea of two hackers trying to out type each
+                    other works better for Hollywood. The cinematography is low-average for a made for TV. I liked Judge
+                    Reinhold's acting, and Kris Kristofferson, Bakula I found to be often flat or alternately overacted.
+                    Conclusion: Don't rent it unless you're into bad movies, worth catching on Cable on a slow day.
+                </text>
+                <writer>DrK0H</writer>
+                <place>Colorado, Alamosa</place>
+                <date>13 June 2004</date>
+                <stars>4</stars>
+            </review>
+        </reviews>
+
+    </product>
+</products>
